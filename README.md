@@ -66,4 +66,4 @@ $ npm run build
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/Jalal-Aljhny)
+- GitHub [Jalal Aljhny](https://github.com/Jalal-Aljhny)
