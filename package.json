@@ -1,6 +1,6 @@
 {
   "name": "@jalal-aljhny/button-component-devchallenges",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "button component challenge from devchallenges.io",
   "main": "scss/main.scss",
   "scripts": {
